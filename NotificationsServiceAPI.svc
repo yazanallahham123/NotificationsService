@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="NotificationsService.NotificationsServiceAPI" CodeBehind="NotificationsServiceAPI.svc.cs" %>
